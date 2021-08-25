@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    width: 500px; 
+    height: 800px;
+    padding: 30px;
+}
+
+h1 {
+color: white;
+
+}
+
+.box{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+
